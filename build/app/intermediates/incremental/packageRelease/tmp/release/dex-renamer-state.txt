@@ -1,0 +1,4 @@
+#Wed Nov 13 23:17:09 ECT 2024
+base.0=/Users/dark/Desktop/Aplicaciones Moviles/ejercicios/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
